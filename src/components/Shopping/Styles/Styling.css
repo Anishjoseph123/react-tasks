@@ -1,0 +1,23 @@
+.productsList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  list-style: none;
+}
+.addToCartBtn {
+  background: blue;
+  border-radius: 5px;
+  border: transparent;
+  text-transform: capitalize;
+  height: 25px;
+  max-width: 200px;
+  padding: 5px;
+  color: white;
+  /* cursor: pointer; */
+}
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+}

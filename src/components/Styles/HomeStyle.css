@@ -1,0 +1,31 @@
+.mainSection {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  height: 100vh;
+  width: 100%;
+}
+.mainArticle {
+  padding: 36px;
+  width: 50%;
+  height: auto;
+}
+.mainDiv {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.welcomeTitle {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+  font-size: 45px;
+  width: 100%;
+}
+.secondDiv {
+  width: 100%;
+  align-items: end;
+  justify-content: end;
+}

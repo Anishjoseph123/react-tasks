@@ -1,0 +1,25 @@
+.aboutTitle {
+  padding: 20px;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 45px;
+  color: #318ce7;
+  font-family: "Helvetica";
+}
+.aboutDiv img {
+  object-fit: cover;
+  padding: 8px;
+  height: 700px;
+  width: 100%;
+}
+.aboutDiv .aboutText {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 25px;
+  padding: 9px;
+}
+.aboutDiv .aboutDescription {
+  text-align: center;
+  word-spacing: normal;
+  line-height: 1px;
+}
